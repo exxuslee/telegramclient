@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "input": "^1.0.1",
+    "sleep-promise": "^9.1.0",
     "telegram": "^2.19.20"
   }
 }
